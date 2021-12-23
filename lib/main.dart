@@ -43,7 +43,7 @@ class _sambleState extends State<samble> {
       body: Container(
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
-        color: Colors.teal,
+        color: Colors.red,
         child: Center(
           child: Text("coder academy kerala"),
         ),
